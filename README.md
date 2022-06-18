@@ -1,14 +1,14 @@
 # Alfamart-Indomaret
 
-1. Project ini mencoba menjawab tentang keresahan apakah benar banyak Indomaret dan Alfamart yang berdekatan?
-2. Data yang digunakan didapat melalui Google Maps API, fokus pada daerah Jakarta Selatan
-3. Hasilnya ada 34 gerai Alfamart-Indomaret (total 68 gerai) yang berdekatan di Jakarta Selatan, ratusan lainnya tidak.
+1. This project tries to answer whether it is true that there are many Indomaret and Alfamart close together?
+2. The data used is obtained through the Google Maps API, focusing on the South Jakarta area.
+3. The result is that there are 34 Alfamart-Indomaret adjacent (radius<= 30 meters) in South Jakarta.
 4. Tools: Python, Google Maps API, Pandas, dan Tableau
 
 
 ## Documentation
 
-[Selengkapnya Bisa Baca Disini](https://link.medium.com/1CLCxzcxUqb)
+[Read More](https://link.medium.com/1CLCxzcxUqb)
 
 
 ## 🔗 Links
