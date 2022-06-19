@@ -1,4 +1,4 @@
-# Alfamart-Indomaret
+# Alfamart dan Indomaret Sering Sebelahan?: Yuk Buktikan dengan Data
 
 1. This project tries to answer whether it is true that there are many Indomaret and Alfamart close together?
 2. The data used is obtained through the Google Maps API, focusing on the South Jakarta area.
