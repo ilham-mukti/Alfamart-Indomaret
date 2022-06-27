@@ -8,7 +8,7 @@ import os.path
 import numpy as np
 from google_maps_api_alfaindo_oop import GooglePlaces
 
-class get_data:
+class GetData:
 	def __init__(self, id_kota):
 		self.id_kota = id_kota
 
@@ -64,7 +64,7 @@ kota = "Jakarta Selatan"
 api_key = 'xxx' # Api Key
 path = f"D:/Yok Belajar/Analisis/Alfamart - Indomaret/get_data/"
 
-x = get_data(id)
+x = GetData(id)
 x.start_scraping()
 
 # id 3171 jaksel
