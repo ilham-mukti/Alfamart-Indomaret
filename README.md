@@ -1,8 +1,8 @@
 # Alfamart dan Indomaret Sering Sebelahan?: Yuk Buktikan dengan Data
 
 1. This project tries to answer whether it is true that there are many Indomaret and Alfamart close together?
-2. The data were obtained through the Google Maps API. Focus on the South Jakarta area.
-3. The result is that there are 34 Alfamart-Indomaret adjacent (radius<= 30 meters) in South Jakarta.
+2. The data were collected through Google Maps API. Focused on the South Jakarta area.
+3. The result is that there are 34 Alfamart and Indomaret in South Jakarta which adjacent (radius <= 30 meters)
 4. Tools: Python, Google Maps API, Pandas, dan Tableau
 
 
